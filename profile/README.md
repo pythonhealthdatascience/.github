@@ -22,7 +22,7 @@ Optional components of STARS framework (shaded in blue below):
 * Model interface
 * Web app hosting
 
-![Overview of framework](../images/stars_framework_overview.png)
+<img align="center" src="https://raw.githubusercontent.com/pythonhealthdatascience/.github/main/images/stars_framework_overview.png" alt="STARS framework overview">
 
 ## Repositories
 
