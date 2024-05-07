@@ -1,6 +1,28 @@
 # 💫 STARS: Sharing Tools and Artefacts for Reusable Simulations
 
+This organisation contains work relating to the STARS framework.
+
+## STARS Framework
+
 The STARS framework is a set of open practices, tools and learning materials to produce enhanced versions of research artefacts that intent to increase accessibility for others to (re)use, adapt and build on work.
+
+Essential components of STARS framework (shaded in green below):
+* Open license
+* Dependency management
+* Model created using free and open-source software (FOSS)
+* Minimum documentation
+* Research artefact meta data (ORCID ID + citation information)
+* Remote code repository
+* Open science archive
+
+Optional components of STARS framework (shaded in blue below):
+* Enhanced documentation
+* Documentation hosting
+* Online coding environment
+* Model interface
+* Web app hosting
+
+![Overview of framework](../images/stars_framework_overview.png)
 
 ## Repositories
 
