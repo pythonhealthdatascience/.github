@@ -1,3 +1,0 @@
-# STARS
-
-GitHub profile
