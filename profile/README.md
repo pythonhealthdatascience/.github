@@ -2,6 +2,16 @@
 
 This organisation contains work relating to the STARS framework.
 
+## Team
+
+| Member | ORCID | GitHub |
+| --- | --- | --- |
+| Thomas Monks | [![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481) | https://github.com/TomMonks |
+| Alison Harper | [![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-brightgreen)](https://orcid.org/0000-0001-5274-5037) | https://github.com/AliHarp |
+| Navonil Mustafee | [![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-brightgreen)](https://orcid.org/0000-0002-2204-8924) | https://github.com/NavonilNM |
+| Andrew Mayne | [![ORCID: Mayne](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-brightgreen)](https://orcid.org/0000-0003-1263-2286) | https://github.com/andy-mayne |
+| Amy Heather | [![ORCID: Heather](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) | https://github.com/amyheather |
+
 ## STARS Framework
 
 The STARS framework is a set of open practices, tools and learning materials to produce enhanced versions of research artefacts that intent to increase accessibility for others to (re)use, adapt and build on work.
@@ -27,7 +37,6 @@ Optional components of STARS framework (shaded in blue below):
 ## Repositories
 
 The majority of repositories are related to our recent paper '[Towards sharing tools and artefacts for reusable simulations in healthcare](https://doi.org/10.1080/17477778.2024.2347882)', which includes three examples of the implemented STARS framework:
-
 | Repositories | Description |
 | --- | --- |
 | [stars-treat-sim](https://github.com/pythonhealthdatascience/stars-treat-sim) | STARS paper example 1. Implements essential components + annotated notebook to run code executable online with Binder |
@@ -40,3 +49,10 @@ Other repositories are:
 | [stars-publications](https://github.com/pythonhealthdatascience/stars-publications) | List of all STARS publications |
 | [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
 | [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
+| [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
+
+Repositories as part of work package 1:
+| Repositories | Description |
+| --- | --- |
+| [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
+| [stars-reproduce-monks-2016](https://github.com/pythonhealthdatascience/stars-reproduce-monks-2016) | Temporarily private (to prevent learning by LLM as part of other study) - Test run of reproducibility protocol on Monks et al. 2016 |
