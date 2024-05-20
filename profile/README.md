@@ -1,20 +1,8 @@
-# 💫 STARS: Sharing Tools and Artefacts for Reusable Simulations
-
-This organisation contains work relating to the STARS framework.
-
-## Team
-
-| Member | ORCID | GitHub |
-| --- | --- | --- |
-| Thomas Monks | [![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481) | https://github.com/TomMonks |
-| Alison Harper | [![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-brightgreen)](https://orcid.org/0000-0001-5274-5037) | https://github.com/AliHarp |
-| Navonil Mustafee | [![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-brightgreen)](https://orcid.org/0000-0002-2204-8924) | https://github.com/NavonilNM |
-| Andrew Mayne | [![ORCID: Mayne](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-brightgreen)](https://orcid.org/0000-0003-1263-2286) | https://github.com/andy-mayne |
-| Amy Heather | [![ORCID: Heather](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) | https://github.com/amyheather |
+<img align="center" src="https://raw.githubusercontent.com/pythonhealthdatascience/.github/main/images/stars_logo_blue_text.png" alt="STARS: Sharing Tools and Artefacts for Reproducible Simulations">
 
 ## STARS Framework
 
-The STARS framework is a set of open practices, tools and learning materials to produce enhanced versions of research artefacts that intent to increase accessibility for others to (re)use, adapt and build on work.
+The STARS framework is a set of open practices, tools and learning materials to produce enhanced versions of research artefacts that intend to increase accessibility for others to (re)use, adapt and build on work.
 
 Essential components of STARS framework (shaded in green below):
 * Open license
@@ -56,3 +44,13 @@ Other repositories are:
 | [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
 | [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
 | [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
+
+## Team
+
+| Member | ORCID | GitHub |
+| --- | --- | --- |
+| Thomas Monks | [![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481) | https://github.com/TomMonks |
+| Alison Harper | [![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-brightgreen)](https://orcid.org/0000-0001-5274-5037) | https://github.com/AliHarp |
+| Navonil Mustafee | [![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-brightgreen)](https://orcid.org/0000-0002-2204-8924) | https://github.com/NavonilNM |
+| Andrew Mayne | [![ORCID: Mayne](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-brightgreen)](https://orcid.org/0000-0003-1263-2286) | https://github.com/andy-mayne |
+| Amy Heather | [![ORCID: Heather](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) | https://github.com/amyheather |
