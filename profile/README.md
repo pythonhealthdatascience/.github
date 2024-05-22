@@ -35,7 +35,7 @@ Repositories as part of work package 1:
 | Repositories | Description |
 | --- | --- |
 | [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
-| [stars-reproduce-monks-2016](https://github.com/pythonhealthdatascience/stars-reproduce-monks-2016) | Temporarily private (to prevent learning by LLM as part of other study) - Test run of reproducibility protocol on Monks et al. 2016 |
+| [stars-reproduce-allen-2020](https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020) |Test run of reproducibility protocol on Allen et al. 2020 |
 
 Other repositories are:
 | Repositories | Description |
