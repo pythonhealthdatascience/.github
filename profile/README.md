@@ -36,6 +36,7 @@ Repositories as part of work package 1:
 | --- | --- |
 | [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
 | [stars-reproduce-allen-2020](https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020) |Test run of reproducibility protocol on Allen et al. 2020 |
+| [stars-reproduction-template](https://github.com/pythonhealthdatascience/stars_reproduction_template) | Template for assessment of computational reproducibility |
 
 Other repositories are:
 | Repositories | Description |
@@ -44,6 +45,7 @@ Other repositories are:
 | [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
 | [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
 | [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
+| [stress_update](https://github.com/pythonhealthdatascience/stress_update) | A review and update of the Strengthening the Reporting of Empirical Simulation Studies guidelines for DES, SD, and ABS. |
 
 ## Team
 
