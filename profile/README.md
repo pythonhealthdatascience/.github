@@ -24,14 +24,22 @@ Optional components of STARS framework (shaded in blue below):
 
 ## Repositories
 
-Several repositories are related to our recent paper '[Towards sharing tools and artefacts for reusable simulations in healthcare](https://doi.org/10.1080/17477778.2024.2347882)', which includes three examples of the implemented STARS framework:
+Several repositories are related to our recent paper '[Towards sharing tools and artefacts for reusable simulations in healthcare](https://doi.org/10.1080/17477778.2024.2347882)', which includes three examples of the implemented STARS framework in Python:
 | Repositories | Description |
 | --- | --- |
 | [stars-treat-sim](https://github.com/pythonhealthdatascience/stars-treat-sim) | STARS paper example 1. Implements essential components + annotated notebook to run code executable online with Binder |
 | [stars-simpy-example-docs](https://github.com/pythonhealthdatascience/stars-simpy-example-docs)<br><br>[stars-streamlit-example](https://github.com/pythonhealthdatascience/stars-streamlit-example) | STARS paper example 2. Fully implements essential + optional components including enhanced documentation hosted online and web app |
 | [stars-ciw-example](https://github.com/pythonhealthdatascience/stars-ciw-example) | STARS paper example 3. Fully implements essential + optional components, but with different licence, documentation publishing software, web app framework and web app hosting |
 
-Repositories as part of work package 1:
+Subsequently, we have been developing similar examples in R, as well as looking at webassembly:
+| Repositories | Description |
+| --- | --- |
+| [stars-treat-simmer](https://github.com/pythonhealthdatascience/stars-treat-simmer) | R simmer implementation of treatment simulation model |
+| [stars-shiny-simmer](https://github.com/pythonhealthdatascience/stars-shiny-simmer) | Template for shiny interface to simmer DES model |
+| [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
+| [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
+
+As part of STARS, we are assessing the reproducibility of six published simualation models, with related repositories as follows:
 | Repositories | Description |
 | --- | --- |
 | [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
@@ -42,8 +50,6 @@ Other repositories are:
 | Repositories | Description |
 | --- | --- |
 | [stars-publications](https://github.com/pythonhealthdatascience/stars-publications) | List of all STARS publications |
-| [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
-| [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
 | [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
 | [stress_update](https://github.com/pythonhealthdatascience/stress_update) | A review and update of the Strengthening the Reporting of Empirical Simulation Studies guidelines for DES, SD, and ABS. |
 
