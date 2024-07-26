@@ -48,6 +48,7 @@ As part of STARS, we are assessing the reproducibility of six published simualat
 | [stars-reproduce-shoaib-2022](https://github.com/pythonhealthdatascience/stars-reproduce-shoaib-2022) | Reproduction study 1: Shoaib and Ramamohan 2022 |
 | [stars-reproduce-huang-2019](https://github.com/pythonhealthdatascience/stars-reproduce-huang-2019) | Reproduction study 2: Huang et al. 2019 |
 | [stars-reproduce-lim-2020](https://github.com/pythonhealthdatascience/stars-reproduce-lim-2020) | Reproduction study 3: Lim et al. 2020 |
+| [stars-reproduce-kim-2021](https://github.com/pythonhealthdatascience/stars-reproduce-kim-2021) | Reproduction study 4: Kim et al. 2021 |
 
 Other repositories are:
 | Repositories | Description |
