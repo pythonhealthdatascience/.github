@@ -58,6 +58,7 @@ Other repositories are:
 | [stars-publications](https://github.com/pythonhealthdatascience/stars-publications) | List of all STARS publications |
 | [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
 | [stress_update](https://github.com/pythonhealthdatascience/stress_update) | A review and update of the Strengthening the Reporting of Empirical Simulation Studies guidelines for DES, SD, and ABS. |
+| [NICE model repo](https://github.com/pythonhealthdatascience/NICE-model-repo) | The Exeter Oncology Model: Renal Cell Carcinoma Edition |
 
 ## Team
 
