@@ -39,7 +39,7 @@ Subsequently, we have been developing similar examples in R, as well as looking 
 | [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
 | [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
 
-As part of STARS, we are assessing the reproducibility of six published simualation models, with related repositories as follows:
+As part of STARS, we are assessing the reproducibility of published simualation models, with related repositories as follows:
 | Repositories | Description |
 | --- | --- |
 | [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
@@ -51,6 +51,7 @@ As part of STARS, we are assessing the reproducibility of six published simualat
 | [stars-reproduce-kim-2021](https://github.com/pythonhealthdatascience/stars-reproduce-kim-2021) | Reproduction study 4: Kim et al. 2021 (R) |
 | [stars-reproduce-anagnostou-2022](https://github.com/pythonhealthdatascience/stars-reproduce-anagnostou-2022) | Reproduction study 5: Anagnostou et al. 2022 (Python) |
 | [stars-reproduce-johnson-2021](https://github.com/pythonhealthdatascience/stars-reproduce-johnson-2021) | Reproduction study 6: Johnson et al. 2021 (R) |
+| [stars-reproduce-hernandez-2015](https://github.com/pythonhealthdatascience/stars-reproduce-hernandez-2015) | Reproduction study 7: Hernandez et al. 2015 (Python + R) |
 
 Other repositories are:
 | Repositories | Description |
