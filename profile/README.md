@@ -54,6 +54,12 @@ As part of STARS, we are assessing the reproducibility of published simualation 
 | [stars-reproduce-hernandez-2015](https://github.com/pythonhealthdatascience/stars-reproduce-hernandez-2015) | Reproduction study 7: Hernandez et al. 2015 (Python model + R figures) |
 | [stars-reproduce-wood-2021](https://github.com/pythonhealthdatascience/stars-reproduce-wood-2021) | Reproduction study 8: Wood et al. 2021 (R) |
 
+There is a tutorial on discrete-event simulation for the Operational Research Society Simulation Workshop 2025:
+
+| Repositories | Description |
+| --- | --- |
+| [intro-open-sim](https://github.com/pythonhealthdatascience/intro-open-sim) | An introduction to Discrete-Event Simulation using Free and Open Source Software |
+
 Other repositories are:
 | Repositories | Description |
 | --- | --- |
