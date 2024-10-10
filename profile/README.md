@@ -68,6 +68,7 @@ Other repositories are:
 | [stars-logo](https://github.com/pythonhealthdatascience/stars-logo) | SVG and PNG files with logo |
 | [stress_update](https://github.com/pythonhealthdatascience/stress_update) | A review and update of the Strengthening the Reporting of Empirical Simulation Studies guidelines for DES, SD, and ABS. |
 | [stars-eom-rcc](https://github.com/pythonhealthdatascience/stars-eom-rcc) | Modifications to the "Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)" as part of STARS work package 3. |
+| [stars_wp3_summary](https://github.com/pythonhealthdatascience/stars_wp3_summary) | Reflections from prospective and retrospective application of the STARS framework |
 
 ## Team
 
