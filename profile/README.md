@@ -53,6 +53,7 @@ As part of STARS, we are assessing the reproducibility of published simualation 
 | [stars-reproduce-johnson-2021](https://github.com/pythonhealthdatascience/stars-reproduce-johnson-2021) | Reproduction study 6: Johnson et al. 2021 (R) |
 | [stars-reproduce-hernandez-2015](https://github.com/pythonhealthdatascience/stars-reproduce-hernandez-2015) | Reproduction study 7: Hernandez et al. 2015 (Python model + R figures) |
 | [stars-reproduce-wood-2021](https://github.com/pythonhealthdatascience/stars-reproduce-wood-2021) | Reproduction study 8: Wood et al. 2021 (R) |
+| [stars_wp1_summary](https://github.com/pythonhealthdatascience/stars_wp1_summary) | Summary of the eight computational reproducibility assessments conducted as part of STARS Work Package 1. These assessed discrete-event simulation papers with models in Python and R. |
 
 There is a tutorial on discrete-event simulation for the Operational Research Society Simulation Workshop 2025:
 
