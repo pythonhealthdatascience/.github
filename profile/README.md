@@ -1,30 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/pythonhealthdatascience/.github/main/images/stars_logo_blue_text.png" alt="STARS: Sharing Tools and Artefacts for Reproducible Simulations">
-
-## STARS Framework
-
-The STARS framework is a set of open practices, tools and learning materials to produce enhanced versions of research artefacts that intend to increase accessibility for others to (re)use, adapt and build on work.
-
-Essential components of STARS framework (shaded in green below):
-* Open license
-* Dependency management
-* Model created using free and open-source software (FOSS)
-* Minimum documentation
-* Research artefact meta data (ORCID ID + citation information)
-* Remote code repository
-* Open science archive
-
-Optional components of STARS framework (shaded in blue below):
-* Enhanced documentation
-* Documentation hosting
-* Online coding environment
-* Model interface
-* Web app hosting
-
-<img align="center" src="https://raw.githubusercontent.com/pythonhealthdatascience/.github/main/images/stars_framework_overview.png" alt="STARS framework overview">
-
-## Repositories
+## The STARS Framework
 
 Several repositories are related to our recent paper '[Towards sharing tools and artefacts for reusable simulations in healthcare](https://doi.org/10.1080/17477778.2024.2347882)', which includes three examples of the implemented STARS framework in Python:
+
 | Repositories | Description |
 | --- | --- |
 | [stars-treat-sim](https://github.com/pythonhealthdatascience/stars-treat-sim) | STARS paper example 1. Implements essential components + annotated notebook to run code executable online with Binder |
@@ -32,6 +9,7 @@ Several repositories are related to our recent paper '[Towards sharing tools and
 | [stars-ciw-example](https://github.com/pythonhealthdatascience/stars-ciw-example) | STARS paper example 3. Fully implements essential + optional components, but with different licence, documentation publishing software, web app framework and web app hosting |
 
 Subsequently, we have been developing similar examples in R, as well as looking at webassembly:
+
 | Repositories | Description |
 | --- | --- |
 | [stars-treat-simmer](https://github.com/pythonhealthdatascience/stars-treat-simmer) | R simmer implementation of treatment simulation model |
@@ -39,11 +17,14 @@ Subsequently, we have been developing similar examples in R, as well as looking 
 | [stars-stlite-example](https://github.com/pythonhealthdatascience/stars-stlite-example) | stlite template for SimPy models |
 | [stars-simpy-jupterlite](https://github.com/pythonhealthdatascience/stars-simpy-jupterlite) | JupyterLite template for SimPy models |
 
-As part of STARS, we are assessing the reproducibility of published simualation models, with related repositories as follows:
+## Computational reproducibility of published DES models
+
+As part of STARS, we haved assessed the reproducibility of published simualation models, as described in '[On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models](https://arxiv.org/abs/2501.13137)'.
+
 | Repositories | Description |
 | --- | --- |
 | [stars-reproduction-protocol](https://github.com/pythonhealthdatascience/stars_reproduction_protocol) | Latex files for reproduction protocol |
-| [stars-reproduce-allen-2020](https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020) |Test run of reproducibility protocol on Allen et al. 2020 |
+| [stars-reproduce-allen-2020](https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020) | Test run of reproducibility protocol on Allen et al. 2020 |
 | [stars-reproduction-template](https://github.com/pythonhealthdatascience/stars_reproduction_template) | Template for assessment of computational reproducibility |
 | [stars-reproduce-shoaib-2022](https://github.com/pythonhealthdatascience/stars-reproduce-shoaib-2022) | Reproduction study 1: Shoaib and Ramamohan 2022 (Python) |
 | [stars-reproduce-huang-2019](https://github.com/pythonhealthdatascience/stars-reproduce-huang-2019) | Reproduction study 2: Huang et al. 2019 (R) |
@@ -55,13 +36,25 @@ As part of STARS, we are assessing the reproducibility of published simualation 
 | [stars-reproduce-wood-2021](https://github.com/pythonhealthdatascience/stars-reproduce-wood-2021) | Reproduction study 8: Wood et al. 2021 (R) |
 | [stars_wp1_summary](https://github.com/pythonhealthdatascience/stars_wp1_summary) | Summary of the eight computational reproducibility assessments conducted as part of STARS Work Package 1. These assessed discrete-event simulation papers with models in Python and R. |
 
+## Template DES models
+
+We have developed template reproducible analytical pipeline (RAP) for DES in python and R.
+
+| Repositories | Description |
+| --- | --- |
+| [rap_template_python_des](https://github.com/pythonhealthdatascience/rap_template_python_des) | Template reproducible analytical pipeline (RAP) for simple python discrete-event simulation (DES) model. |
+| [rap_template_r_des](https://github.com/pythonhealthdatascience/rap_template_r_des) | Template reproducible analytical pipeline (RAP) for simple R discrete-event simulation (DES) model. |
+
+## DES in Python tutorial
+
 There is a tutorial on discrete-event simulation for the Operational Research Society Simulation Workshop 2025:
 
 | Repositories | Description |
 | --- | --- |
-| [intro-open-sim](https://github.com/pythonhealthdatascience/intro-open-sim) | An introduction to Discrete-Event Simulation using Free and Open Source Software |
+| [intro-open-sim](https://github.com/pythonhealthdatascience/intro-open-sim) | An introduction to Discrete-Event Simulation using Free and Open Source Software. |
 
-Other repositories are:
+## Other repositories
+
 | Repositories | Description |
 | --- | --- |
 | [stars-publications](https://github.com/pythonhealthdatascience/stars-publications) | List of all STARS publications |
@@ -69,6 +62,7 @@ Other repositories are:
 | [stress_update](https://github.com/pythonhealthdatascience/stress_update) | A review and update of the Strengthening the Reporting of Empirical Simulation Studies guidelines for DES, SD, and ABS. |
 | [stars-eom-rcc](https://github.com/pythonhealthdatascience/stars-eom-rcc) | Modifications to the "Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)" as part of STARS work package 3. |
 | [stars_wp3_summary](https://github.com/pythonhealthdatascience/stars_wp3_summary) | Reflections from prospective and retrospective application of the STARS framework |
+| [gw4_prize_presentation](https://github.com/pythonhealthdatascience/gw4_prize_presentation) | Amy Heather's presentation for the GW4 Open Research Prize 2024/25. |
 
 ## Team
 
@@ -76,6 +70,6 @@ Other repositories are:
 | --- | --- | --- |
 | Thomas Monks | [![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481) | https://github.com/TomMonks |
 | Alison Harper | [![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-brightgreen)](https://orcid.org/0000-0001-5274-5037) | https://github.com/AliHarp |
+| Amy Heather | [![ORCID: Heather](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) | https://github.com/amyheather |
 | Navonil Mustafee | [![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-brightgreen)](https://orcid.org/0000-0002-2204-8924) | https://github.com/NavonilNM |
 | Andrew Mayne | [![ORCID: Mayne](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-brightgreen)](https://orcid.org/0000-0003-1263-2286) | https://github.com/andy-mayne |
-| Amy Heather | [![ORCID: Heather](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) | https://github.com/amyheather |
