@@ -54,7 +54,7 @@ We have developed template reproducible analytical pipeline (RAP) for DES in pyt
 
 ## DES in Python tutorial
 
-There is a tutorial on discrete-event simulation for the Operational Research Society Simulation Workshop 2025:
+There is a tutorial on discrete-event simulation for the Operational Research Society Simulation Workshop 2025: [Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial](https://www.theorsociety.com/common/Uploaded%20files/Simulation-Workshop/SW25/doiorg1036819sw25004.pdf)
 
 | Repositories | Description |
 | --- | --- |
