@@ -19,6 +19,8 @@ Subsequently, we have been developing similar examples in R, as well as looking 
 
 ## Generating DES models using LLMS
 
+We investigated the ability to replicate Discrete-Event Simulation models reported in the literature using iterative prompting of Perplexity.AI's foundational model. [Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models](https://arxiv.org/abs/2503.21646)
+
 | Repositories | Description |
 | --- | --- |
 | [llm_simpy](https://github.com/pythonhealthdatascience/llm_simpy) | Code for exploring the ability of LLMs to generate SimPy models and streamlit interfaces. |
