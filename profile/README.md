@@ -16,12 +16,35 @@ Explore our repositories to get started, and feel free to reach out!
 
 Project team members:
 
-* Tom Monks - [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2631-4481) [![GitHub](https://img.shields.io/badge/GitHub-TomMonks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomMonks)
-* Amy Heather - [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6596-3479) [![GitHub](https://img.shields.io/badge/GitHub-amyheather-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amyheather)
-* Alison Harper - [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5274-5037) [![GitHub](https://img.shields.io/badge/GitHub-AliHarp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHarp)
-* Nav Mustafee - [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2204-8924) [![GitHub](https://img.shields.io/badge/GitHub-NavonilNM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavonilNM)
-* Andy Mayne - [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1263-2286) [![GitHub](https://img.shields.io/badge/GitHub-andy--mayne-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andy-mayne)
-* Fatemeh Alidoost - [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0252--560X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0252-560X) [![GitHub](https://img.shields.io/badge/GitHub-Falidoost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Falidoost)
+**Tom Monks**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2631-4481)
+* [![GitHub](https://img.shields.io/badge/GitHub-TomMonks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomMonks)
+  
+**Amy Heather**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6596-3479)
+* [![GitHub](https://img.shields.io/badge/GitHub-amyheather-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amyheather)
+
+**Alison Harper**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5274-5037)
+* [![GitHub](https://img.shields.io/badge/GitHub-AliHarp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHarp)
+
+**Nav Mustafee**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2204-8924)
+* [![GitHub](https://img.shields.io/badge/GitHub-NavonilNM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavonilNM)
+
+**Andy Mayne**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1263-2286)
+* [![GitHub](https://img.shields.io/badge/GitHub-andy--mayne-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andy-mayne)
+
+**Fatemeh Alidoost**
+
+* [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0252--560X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0252-560X)
+* [![GitHub](https://img.shields.io/badge/GitHub-Falidoost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Falidoost)
 
 ## Reproducible simulations
 
