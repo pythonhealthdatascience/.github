@@ -20,37 +20,31 @@ Project team members:
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2631-4481)
 * [![GitHub](https://img.shields.io/badge/GitHub-TomMonks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomMonks)
-* [![Email](https://img.shields.io/badge/Email-t.m.w.monks%40exeter.ac.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.m.w.monks@exeter.ac.uk)
 
 **Amy Heather**
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6596-3479)
 * [![GitHub](https://img.shields.io/badge/GitHub-amyheather-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amyheather)
-* [![Email](https://img.shields.io/badge/Email-a.heather2%40exeter.ac.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.heather2@exeter.ac.uk)
 
 **Alison Harper**
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5274-5037)
 * [![GitHub](https://img.shields.io/badge/GitHub-AliHarp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHarp)
-* [![Email](https://img.shields.io/badge/Email-a.l.harper%40exeter.ac.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.l.harper@exeter.ac.uk)
 
 **Nav Mustafee**
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2204-8924)
 * [![GitHub](https://img.shields.io/badge/GitHub-NavonilNM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavonilNM)
-* [![Email](https://img.shields.io/badge/Email-n.mustafee%40exeter.ac.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.mustafee@exeter.ac.uk)
 
 **Andy Mayne**
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1263-2286)
 * [![GitHub](https://img.shields.io/badge/GitHub-andy--mayne-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andy-mayne)
-* [![Email](https://img.shields.io/badge/Email-andrew.mayne%40somersetft.nhs.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.mayne@somersetft.nhs.uk)
 
 **Fatemeh Alidoost**
 
 * [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0252--560X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0252-560X)
 * [![GitHub](https://img.shields.io/badge/GitHub-Falidoost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Falidoost)
-* [![Email](https://img.shields.io/badge/Email-fa418%40exeter.ac.uk-de7e72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa418@exeter.ac.uk)
 
 ## Reproducible simulations
 
