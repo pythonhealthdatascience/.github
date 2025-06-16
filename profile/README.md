@@ -78,10 +78,10 @@ We are developing a book which demonstrates how to create DES models in Python (
 | Repositories | Description |
 | --- | --- |
 | [des_rap_book](https://github.com/pythonhealthdatascience/des_rap_book) | Online book providing detailed step-by-step guidance on developing reproducible DES models in Python and R |
-| [rap_template_python_des](https://github.com/pythonhealthdatascience/rap_template_python_des) | Template reproducible analytical pipeline (RAP) for simple python discrete-event simulation (DES) model. |
-| [rap_template_r_des](https://github.com/pythonhealthdatascience/rap_template_r_des) | Template reproducible analytical pipeline (RAP) for simple R discrete-event simulation (DES) model. |
-| [stroke_rap_python](https://github.com/pythonhealthdatascience/stroke_rap_python) | Applying the Python DES RAP Template to the Stroke Capacity Planning Model from Monks et al. 2016. |
-| [stroke_rap_r](https://github.com/pythonhealthdatascience/stroke_rap_r) | Applying the R DES RAP Template to the Stroke Capacity Planning Model from Monks et al. 2016. |
+| [pydesrap_mms](https://github.com/pythonhealthdatascience/pydesrap_mms) | Reproducible analytical pipeline (RAP) for Python discrete-event simulation (DES) implementing an M/M/s queueing model. |
+| [rdesrap_mms](https://github.com/pythonhealthdatascience/rdesrap_mms) | Reproducible analytical pipeline (RAP) for R discrete-event simulation (DES) implementing an M/M/s queueing model. |
+| [pydesrap_stroke](https://github.com/pythonhealthdatascience/pydesrap_stroke) | Reproducible analytical pipeline (RAP) for Python discrete-event simulation (DES) implementing the Stroke Capacity Planning Model from Monks et al. 2016. |
+| [rdesrap_stroke](https://github.com/pythonhealthdatascience/rdesrap_stroke) | Reproducible analytical pipeline (RAP) for R discrete-event simulation (DES) implementing the Stroke Capacity Planning Model from Monks et al. 2016. |
 
 </details>
 
